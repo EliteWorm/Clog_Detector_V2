@@ -1,0 +1,5 @@
+Keep in mind that this board will never appear as a COM port in the Arduino IDE.
+
+1. Make sure that the Digistump windows drivers are installed (Digistump.Drivers folder).
+2. Burn the micronucleus bootloader to the board (Digiducky.zip file).
+3. Upload the code using the Arduino IDE, and only plug the board when asked.
